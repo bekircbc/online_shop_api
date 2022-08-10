@@ -1,0 +1,17 @@
+{
+  "name": "online_shop_api",
+  "version": "1.0.0",
+  "description": "online_shop_api test",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.27.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.19"
+  }
+}
